@@ -5,4 +5,4 @@
 - Rückwärtsplagiat für künftige Studis stark unerwünscht.
 
 ## Zum Kompilieren und Laufen
-´javac u7/*.java; java u7.ShapesWorld_Main GoAndBack Captive Stein Scared Feuerwerk´
+`javac u7/*.java; java u7.ShapesWorld_Main GoAndBack Captive Stein Scared Feuerwerk`
